@@ -1,7 +1,7 @@
 Loan_Eligibility_Model_Solution
 ==============================
-
-A short description of the project.
+Used Machine Learning Models like Logistic regression and Random Forest. 
+Dataset: credit.csv
 
 Project Organization
 ------------
